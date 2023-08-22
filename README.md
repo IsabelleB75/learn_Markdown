@@ -30,9 +30,9 @@ git commit -m "Nom du commit"
 
 # Lien URL
 
-Pour aller sur mon site: [Codabee](https://fastly.picsum.photos/id/627/200/300.jpg?hmac=C6cEU431ILuZjftVFQ1RsBlFYS52ym9f2KZPSOfH-R4)  
+Pour aller sur mon site: [Codabee](https://codabee.com)
 Lien vers un autre fichier [Vers test.md](test.md).
 
 # Ajouter une image
 
-![Logo](https://codabee.com/wp-content/uploads/2022/04/logo_white.png).
+![Logo](https://fastly.picsum.photos/id/627/200/300.jpg?hmac=C6cEU431ILuZjftVFQ1RsBlFYS52ym9f2KZPSOfH-R4)  
