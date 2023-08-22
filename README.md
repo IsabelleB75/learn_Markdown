@@ -16,5 +16,5 @@ J'adore *Git et GitHub*
 <sup>Superscripts<sup>  
 
 # Citations
-> Nous avons ici une citation
-Nous avons imbriquè `une citation` ici
+> Nous avons ici une citation  
+Nous avons imbriqué `une citation` ici
