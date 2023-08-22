@@ -35,4 +35,4 @@ Lien vers un autre fichier [Vers test.md](test.md).
 
 # Ajouter une image
 
-![Logo](https://fastly.picsum.photos/id/627/200/300.jpg?hmac=C6cEU431ILuZjftVFQ1RsBlFYS52ym9f2KZPSOfH-R4)  
+![Logo](https://fastly.picsum.photos/id/436/200/300.webp?hmac=tTTOqzXhEZHDPglZFxlzBdvk7xIYi5OlKOM-DdLdAnA)
